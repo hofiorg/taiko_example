@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "start": "taiko hofi.js --observe"
+    "start": "taiko hofi.js --observe",
+    "test": "taiko hofi.js"
   },
   "devDependencies": {
     "taiko": "^1.3.9"
