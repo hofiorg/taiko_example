@@ -1,4 +1,2 @@
 .idea/**
-*.iml
-!/.idea/runConfigurations/*.xml
-!/.idea/runConfigurations/
+node_modules
