@@ -14,6 +14,12 @@ npm install
 npm start
 ```
 
+## Test
+
+```sh
+npm test
+```
+
 ## Related Links
 
 |                     |                                     |

@@ -5,5 +5,10 @@
   },
   "devDependencies": {
     "taiko": "^1.4.4"
+  },
+  "overrides": {
+    "documentation": {
+      "vue-template-compiler": "3.0.0"
+    }
   }
 }
